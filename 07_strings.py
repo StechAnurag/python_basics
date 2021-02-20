@@ -22,3 +22,6 @@ name = 'Shelly'
 age = 23
 
 print(f'Hi {name}! \nYou\'re {age} years old.') # works in python 3, for python 2 check the lecture notes
+
+# Finding a character in a string
+print('i' in 'Hi')
