@@ -50,3 +50,5 @@ print(player2.popitem()) # it randomly pops off an item
 # Update an item
 print(player.update({'age': 35}))
 print(player.update({'children': 1})) # added an item if does not already exist
+
+# Reference: https://www.w3schools.com/python/python_ref_dictionary.asp
