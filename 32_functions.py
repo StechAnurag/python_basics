@@ -29,3 +29,14 @@ def greet1(name = 'Alan Walker', emoji='🐻'):
 
 greet1()
 greet1('Billy Ellish')
+
+# With Return
+def sum(num1, num2):
+  return num1 + num2
+
+print(5+9)
+
+# BEST PRACTICES
+# -- A function should do one job really well
+# -- A function should return something
+
